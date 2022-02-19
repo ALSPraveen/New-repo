@@ -1,4 +1,5 @@
-This is new repo
-Added changes
-Nicelu done.
-New changes are addedd and ready to be pushed to remote.
+!This is new repo
+!Added changes
+!Nicely done.
+!New changes are added and ready to be pushed to remote.
+!Adding diff command.
